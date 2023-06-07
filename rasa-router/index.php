@@ -2,9 +2,9 @@
 
 /* Config */
 
-$rasa_url = 'http://localhost:5005';
-$chatwoot_url = 'http://localhost:3000';
-$chatwoot_bot_token = '<your agent bot token>';
+$rasa_url = 'http://178.128.209.99:5005';
+$chatwoot_url = 'http://178.128.209.99:3000';
+$chatwoot_bot_token = 'aLqi7ZUiN88tRBDd2nU5AS8C';
 
 
 $json = file_get_contents('php://input');
